@@ -11,7 +11,7 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: e3274260a96640f0e23004368d84f50888c685be
+    secure: 
   app: automate-heorku
   on:
     repo: adarabinda/automate-deployment-on-heroku
